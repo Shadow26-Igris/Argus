@@ -1,0 +1,6 @@
+step,agent,action,reward,done,result_type
+1,red_agent_0,Sleep,0,False,Results
+2,red_agent_0,Sleep,0,False,Results
+3,red_agent_0,Sleep,0,False,Results
+4,red_agent_0,Sleep,0,False,Results
+5,red_agent_0,Sleep,0,False,Results
